@@ -84,7 +84,7 @@ The notebook is fully rendered on GitHub — including code, detailed explanatio
 
 For quicker reading without clicking through cells, I have also exported the complete notebook (with all outputs rendered) as a PDF:
 
-→ Download static PDF: [GPS_data_analysis.pdf](GPS_data_analysis.pdf)
+→ Static PDF: [GPS_data_analysis.pdf](GPS_data_analysis.pdf)
 
 
 ## GIS Preprocessing Requirements
