@@ -86,6 +86,24 @@ For quicker reading without clicking through cells, I have also exported the com
 
 → Static PDF: [GPS_data_analysis.pdf](GPS_data_analysis.pdf)
 
+## Key Visual Outputs
+
+Here are some of the main results and visualizations from the analysis:
+
+### Planning Time Index (PTI) Heatmap
+Temporal variation of PTI across route segments and time intervals (custom colormap for reliability).
+
+![PTI Heatmap](Figures/PTI_Heatmap.png)
+
+### Example Distribution Fitting (14:00–14:30 Interval)
+Histogram of actual travel times + overlaid PDFs of fitted distributions (Log-Normal, Gamma, Weibull, Exponential).
+
+![Distribution Fit Example - 14:00-14:30](Figures/14_00-14_30.png)
+
+### PTI vs Time Plot
+Additional view of PTI trends over time.
+
+![PTI vs Time](Figures/PT_vs_Time.png)
 
 ## GIS Preprocessing Requirements
 
